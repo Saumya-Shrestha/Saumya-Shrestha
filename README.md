@@ -44,4 +44,4 @@ I love solving problems and turning ideas into reality through code and design!
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)-->
