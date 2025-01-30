@@ -35,9 +35,8 @@ Here are some of the projects I've worked on:
 - **[Project 3 Name](link-to-project-3)**: A brief description of the project.
 
 ### 📫 Let's Connect
-- **Portfolio**: [Your Portfolio Link](#)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: your.email@example.com
+- **LinkedIn**: (https://www.linkedin.com/in/saumyamanshrestha/)(#)
+- **Email**: saumyamanshrestha@gmail.com
 
 ### ⚡ Fun Fact
 I love solving problems and turning ideas into reality through code and design!
