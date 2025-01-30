@@ -35,7 +35,7 @@ Here are some of the projects I've worked on:
 - **[Project 3 Name](link-to-project-3)**: A brief description of the project.
 
 ### 📫 Let's Connect
-- **LinkedIn**: (https://www.linkedin.com/in/saumyamanshrestha/)(#)
+- **LinkedIn**: [Saumya Man Shrestha's LinkedIn Profile](https://www.linkedin.com/in/saumyamanshrestha/)
 - **Email**: saumyamanshrestha@gmail.com
 
 ### ⚡ Fun Fact
