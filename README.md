@@ -28,12 +28,6 @@ I'm a motivated web developer and designer with a strong foundation in web techn
 - UX/UI Design best practices
 - Backend development with Node.js and Express
 
-### 🚀 Projects
-Here are some of the projects I've worked on:
-- **[Project 1 Name](link-to-project-1)**: A brief description of the project.
-- **[Project 2 Name](link-to-project-2)**: A brief description of the project.
-- **[Project 3 Name](link-to-project-3)**: A brief description of the project.
-
 ### 📫 Let's Connect
 - **LinkedIn**: [Saumya Man Shrestha's LinkedIn Profile](https://www.linkedin.com/in/saumyamanshrestha/)
 - **Email**: saumyamanshrestha@gmail.com
