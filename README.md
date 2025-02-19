@@ -26,9 +26,10 @@ I'm a motivated web developer and designer with a strong foundation in web techn
 
 ### 🌱 Currently Learning
 
-- Advanced JavaScript and React
-- UX/UI Design best practices
 - Backend development with Node.js and Express
+- Advanced JavaScript and React
+- Next.js 
+- UX/UI Design best practices
 
 ### 📫 Let's Connect
 
