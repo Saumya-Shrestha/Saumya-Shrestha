@@ -15,32 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a motivated web developer and designer with a strong foundation in web technologies and design principles. Currently, I'm pursuing my **BSc. CSIT** degree at **Tribhuvan University** and am in my **8th semester**. I'm passionate about creating responsive, user-friendly websites and improving my skills in **front-end development** and **UX/UI design**.
+# Saumya Man Shrestha
 
-### 🛠️ Technologies & Tools
+I'm a motivated **full-stack web developer** and designer with a strong foundation in web technologies and design principles. Currently, I'm pursuing my **BSc. CSIT** degree at **Tribhuvan University** and am in my **8th semester**. I'm passionate about creating responsive, user-friendly websites and improving my skills in **front-end development**, **back-end development**, and **UX/UI design**.
 
-- **Front-end Development**: HTML, CSS, JavaScript, React, Bootstrap
+## 🛠️ Technologies & Tools
+
+- **Front-end Development**: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS, JQuery
+- **Back-end Development**: Express.js with Node.js, Nest.js
 - **Design Tools**: Figma, Adobe XD
 - **Version Control**: Git, GitHub
+- **Databases**: SQL, PostgreSQL
+- **Programming languages:** C, C++, C#, Python
 - **Other Skills**: Responsive Design, UI/UX Principles, Web Accessibility
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
-- Backend development with Node.js and Express
-- Advanced JavaScript and React
 - Next.js 
+- Nest.js
 - UX/UI Design best practices
 
-### 📫 Let's Connect
+
+## 📫 Let's Connect
 
 - **LinkedIn**: [Saumya Man Shrestha's LinkedIn Profile](https://www.linkedin.com/in/saumyamanshrestha/)
 - **Email**: saumyamanshrestha@gmail.com
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
 I love solving problems and turning ideas into reality through code and design!
 
----
 
 <!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)-->
 <picture>
