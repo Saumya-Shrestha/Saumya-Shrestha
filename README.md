@@ -19,74 +19,94 @@ I'm a passionate **full-stack web developer** and **designer** who loves creatin
 
 ## 🛠️ Technologies & Tools
 
-<div>
-	<table>
-		<tr>	
-			<td><strong>Front-end Development</strong></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
-		</tr>
-		<tr>
-			<td><strong>Back-end Development</strong></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code></td>
-		</tr>
-		<tr>
-			<td><strong>Design Tools</strong></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code></td>
-		</tr>
-		<tr>
-			<td><strong>Version Control</strong></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code></td>
-		</tr>
-		<tr>
-			<td><strong>Databases</strong></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
-		</tr>
-		<tr>
-			<td><strong>Programming Language</strong></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
-		</tr>
-		<tr>
-			<td><strong>Other Skills</strong></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" alt="Unreal Engine" title="Unreal Engine"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png" alt="Wordpress" title="Wordpress"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
-		</tr>
-	</table>
-</div>
+<table>
+  <tr>
+    <td><strong>Front-end Development</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" title=""/></td>
+    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="React" /></td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /></td>
+    <td><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" /></td>
+  </tr>
+  <tr>
+    <td><strong>Back-end Development</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></td>
+    <td><img src="https://skillicons.dev/icons?i=express" alt="Express" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></td>
+  </tr>
+  <tr>
+    <td><strong>Design Tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></td>
+    <td><img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" /></td>
+    <td><img src="https://skillicons.dev/icons?i=blender" alt="Blender" /></td>
+  </tr>
+  <tr>
+    <td><strong>Version Control</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=git" alt="Git" /></td>
+    <td><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" /></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></td>
+  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=c" alt="C" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java" alt="Java" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python" alt="Python" /></td>
+  </tr>
+  <tr>
+    <td><strong>Other Skills</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></td>
+    <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></td>
+    <td><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></td>
+    <td><img src="https://skillicons.dev/icons?i=notion" alt="Notion" /></td>
+    <td><img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" /></td>
+    <td><img src="https://skillicons.dev/icons?i=unrealengine" alt="Unreal Engine" /></td>
+  </tr>
+</table>
 
 ## 🌱 Currently Learning
 
-<div>
-	<table>
-		<tr>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" alt="Nest.js" title="Nest.js"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code></td>
-		</tr>
-	</table>
-</div>
+<table>
+  <tr>
+    <td><strong>Next.js</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></td>
+  </tr>
+  <tr>
+    <td><strong>Nest.js</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></td>
+  </tr>
+</table>
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saumyamanshrestha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saumyamanshrestha@gmail.com) 
-
+<table>
+  <tr>
+    <td><strong>Gmail</strong></td>
+    <td>
+      <a href="mailto:saumyamanshrestha@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td>
+      <a href="https://linkedin.com/in/saumyamanshrestha" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## ⚡ Fun Fact
 
