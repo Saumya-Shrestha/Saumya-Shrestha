@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 I'm a passionate **full-stack web developer** and **designer** who loves creating **responsive** and **user-friendly** websites. With a solid understanding of both **web technologies** and **design principles**, I'm always looking to improve my skills in **Front-end development**, **Back-end development** and **UX/UI design**.
 
 ---
-
-
 <div align="center">
   <img src="https://media.tenor.com/PxudDH41WKcAAAAj/pepe-music-pepe-listening-to-music.gif" alt="Pepe Music" width="80" height="80" align="left" hspace="150">
   <img src="https://github.com/Saumya-Shrestha/Saumya-Shrestha/blob/main/right-pepe-headphones.gif" alt="Pepe Music" width="80" height="80" align="right" hspace="150">
@@ -27,8 +25,6 @@ I'm a passionate **full-stack web developer** and **designer** who loves creatin
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zqq5f68mpalni6159i8t96njp&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile">
   </a>
 </div>  
-
-
 ---
 
 ## 🛠️ Technologies & Tools
