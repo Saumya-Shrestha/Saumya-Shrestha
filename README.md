@@ -112,9 +112,11 @@ I'm a passionate **full-stack web developer** and **designer** who loves creatin
 
 I love solving problems and turning ideas into reality through code and design!
 
-<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saumya-shrestha/saumya-shrestha/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saumya-shrestha/saumya-shrestha/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/saumya-shrestha/saumya-shrestha/output/github-snake.svg" />
 </picture>
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zqq5f68mpalni6159i8t96njp&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=zqq5f68mpalni6159i8t96njp&redirect=true)
