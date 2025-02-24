@@ -89,12 +89,12 @@ I'm a motivated **full-stack web developer** and designer with a strong foundati
   <table>
     <tr>
       <td>
-        <a href="mailto:saumyamanshrestha@gmail.com">
+        <a href="#" onclick="copyToClipboard('saumyamanshrestha@gmail.com')">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
       </td>
       <td>
-        <a href="https://www.linkedin.com/in/saumyamanshrestha/">
+        <a href="https://www.linkedin.com/in/saumyamanshrestha/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
       </td>
@@ -112,3 +112,15 @@ I love solving problems and turning ideas into reality through code and design!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saumya-shrestha/saumya-shrestha/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/saumya-shrestha/saumya-shrestha/output/github-snake.svg" />
 </picture>
+
+<script>
+  function copyToClipboard(text) {
+    const textarea = document.createElement('textarea');
+    textarea.value = text;
+    document.body.appendChild(textarea);
+    textarea.select();
+    document.execCommand('copy');
+    document.body.removeChild(textarea);
+    alert('Email copied to clipboard: ' + text);
+  }
+</script>
