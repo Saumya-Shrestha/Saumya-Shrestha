@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there, I'm Saumya Man Shrestha 👋
 
 <!--
 **Saumya-Shrestha/Saumya-Shrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Saumya Man Shrestha
-
 I'm a motivated **full-stack web developer** and designer with a strong foundation in web technologies and design principles. Currently, I'm pursuing my **BSc. CSIT** degree at **Tribhuvan University** and am in my **8th semester**. I'm passionate about creating responsive, user-friendly websites and improving my skills in **front-end development**, **back-end development**, and **UX/UI design**.
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 
 ## 🛠️ Technologies & Tools
 
