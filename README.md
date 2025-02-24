@@ -86,8 +86,6 @@ I'm a passionate **full-stack web developer** and **designer** who loves creatin
   </tr>
 </table>
 
-<br />
-
 ## 🌱 Currently Learning
 
 <table>
@@ -100,8 +98,6 @@ I'm a passionate **full-stack web developer** and **designer** who loves creatin
     <td><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></td>
   </tr>
 </table>
-
-<br />
 
 ## 📫 Let's Connect
 
@@ -123,8 +119,6 @@ I'm a passionate **full-stack web developer** and **designer** who loves creatin
     </td>
   </tr>
 </table>
-
-<br />
 
 ## ⚡ Fun Fact
 
