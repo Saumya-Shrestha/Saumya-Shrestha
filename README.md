@@ -85,14 +85,8 @@ I'm a motivated **full-stack web developer** and designer with a strong foundati
 
 ## 📫 Let's Connect
 
-<div>
-	<table>
-		<tr>
-      			<td>[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:saumyamanshrestha@gmail.com)</td>
-      			<td>[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/saumyamanshrestha/)</td>
-    		</tr>
-	</table>
-</div>
+[![LinkedIn](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/saumyamanshrestha)  [![email](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](mailto:saumyamanshrestha@gmail.com) 
+
 
 ## ⚡ Fun Fact
 
