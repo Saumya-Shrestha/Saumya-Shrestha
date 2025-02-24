@@ -19,23 +19,7 @@ I'm a motivated **full-stack web developer** and designer with a strong foundati
 
 ## 🛠️ Technologies & Tools
 
-- **Front-end Development**: 
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-
-
-- **Back-end Development**: Express.js with Node.js, Nest.js
-- **Design Tools**: Figma, Adobe XD
-- **Version Control**: Git, GitHub
-- **Databases**: SQL, PostgreSQL
-- **Programming languages:** C, C++, C#, Python
-- **Other Skills**: Responsive Design, UI/UX Principles, Web Accessibility
-
-<div align="center">
+<div>
 	<table>
 		<tr>	
 			<td><strong>Front-end Development</strong></td>
@@ -57,16 +41,7 @@ I'm a motivated **full-stack web developer** and designer with a strong foundati
 		<tr>
 			<td><strong>Design Tools</strong></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code></td>
-			<td><code><img width="50" src="<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="xd">
-<g id="xd_2">
-<path id="Vector" d="M17.7083 1.00049H82.2917C92.0833 1.00049 100 8.91715 100 18.7088V80.7922C100 90.5838 92.0833 98.5005 82.2917 98.5005H17.7083C7.91667 98.5005 0 90.5838 0 80.7922V18.7088C0 8.91715 7.91667 1.00049 17.7083 1.00049Z" fill="#470137"/>
-<path id="Vector_2" d="M52.5833 26.6255L40.0833 47.2505L53.4166 69.1255C53.5 69.2922 53.5416 69.4588 53.5 69.6255C53.4583 69.7922 53.2916 69.6672 53.0416 69.7088H43.5C42.8333 69.7088 42.375 69.6672 42.0833 69.2505C41.2083 67.5005 40.2916 65.7922 39.4166 64.0422C38.5416 62.3338 37.5833 60.5838 36.5833 58.7922C35.5833 57.0005 34.5833 55.2088 33.5833 53.3755H33.5C32.625 55.1672 31.6666 56.9588 30.7083 58.7505C29.75 60.5422 28.7916 62.3338 27.875 64.0838C26.9166 65.8338 25.9583 67.6255 25 69.3338C24.8333 69.7505 24.5 69.7922 24.0416 69.7922H14.875C14.7083 69.7922 14.5833 69.8755 14.5833 69.6672C14.5416 69.5005 14.5833 69.3338 14.6666 69.2088L27.625 47.9588L15 26.5838C14.875 26.4172 14.8333 26.2505 14.9166 26.1672C15 26.0422 15.1666 26.0005 15.3333 26.0005H24.7916C25 26.0005 25.2083 26.0422 25.375 26.0838C25.5416 26.1672 25.6666 26.2922 25.7916 26.4588C26.5833 28.2505 27.5 30.0422 28.4583 31.8338C29.4583 33.6255 30.4166 35.3755 31.4583 37.1255C32.4583 38.8755 33.375 40.6255 34.25 42.4172H34.3333C35.2083 40.5838 36.125 38.7922 37.0416 37.0422C37.9583 35.2922 38.9166 33.5422 39.875 31.7922C40.8333 30.0422 41.75 28.2505 42.6666 26.5422C42.7083 26.3755 42.7916 26.2088 42.9166 26.1255C43.0833 26.0422 43.25 26.0005 43.4583 26.0422H52.25C52.4583 26.0005 52.6666 26.1255 52.7083 26.3338C52.75 26.3755 52.6666 26.5422 52.5833 26.6255Z" fill="#FF61F6"/>
-<path id="Vector_3" d="M71.8333 70.5838C68.7499 70.6255 65.6666 70.0005 62.8749 68.7088C60.2499 67.5005 58.0833 65.5005 56.5833 63.0422C55.0416 60.5005 54.2916 57.3338 54.2916 53.5422C54.2499 50.4588 55.0416 47.4172 56.5833 44.7505C58.1666 42.0422 60.4583 39.7922 63.2083 38.2922C66.1249 36.6672 69.6249 35.8755 73.7499 35.8755C73.9583 35.8755 74.2499 35.8755 74.6249 35.9172C74.9999 35.9588 75.4166 35.9588 75.9166 36.0005V22.8338C75.9166 22.5422 76.0416 22.3755 76.3333 22.3755H84.7916C84.9999 22.3338 85.1666 22.5005 85.2083 22.6672C85.2083 22.7088 85.2083 22.7505 85.2083 22.7505V62.4172C85.2083 63.1672 85.2499 64.0005 85.2916 64.9172C85.3749 65.7922 85.4166 66.6255 85.4583 67.3338C85.4583 67.6255 85.3333 67.8755 85.0416 68.0005C82.8749 68.9172 80.5833 69.5838 78.2499 70.0005C76.1249 70.3755 73.9999 70.5838 71.8333 70.5838ZM75.9166 62.2505V43.9172C75.5416 43.8338 75.1666 43.7505 74.7916 43.7088C74.3333 43.6672 73.8749 43.6255 73.4166 43.6255C71.7916 43.6255 70.1666 43.9588 68.7083 44.7088C67.2916 45.4172 66.0833 46.4588 65.1666 47.7922C64.2499 49.1255 63.7916 50.9172 63.7916 53.0838C63.7499 54.5422 63.9999 56.0005 64.4999 57.3755C64.9166 58.5005 65.5416 59.5005 66.3749 60.3338C67.1666 61.0838 68.1249 61.6672 69.2083 62.0005C70.3333 62.3755 71.4999 62.5422 72.6666 62.5422C73.2916 62.5422 73.8749 62.5005 74.4166 62.4588C74.9583 62.5005 75.4166 62.4172 75.9166 62.2505Z" fill="#FF61F6"/>
-</g>
-</g>
-</svg>
-" alt="Figma" title="Figma"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code></td>
 		</tr>
 		<tr>
 			<td><strong>Version Control</strong></td>
@@ -87,29 +62,49 @@ I'm a motivated **full-stack web developer** and designer with a strong foundati
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
 		</tr>
+		<tr>
+			<td><strong>Other Skills</strong></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" alt="Unreal Engine" title="Unreal Engine"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png" alt="Wordpress" title="Wordpress"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
+		</tr>
 	</table>
 </div>
 
 ## 🌱 Currently Learning
 
-- Next.js 
-- Nest.js
-- UX/UI Design best practices
-
-<div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" alt="Nest.js" title="Nest.js"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
+<div>
+	<table>
+		<tr>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" alt="Nest.js" title="Nest.js"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code></td>
+		</tr>
+	</table>
 </div>
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Saumya Man Shrestha's LinkedIn Profile](https://www.linkedin.com/in/saumyamanshrestha/)
-- **Email**: saumyamanshrestha@gmail.com
+<div>
+  <table>
+    <tr>
+      <td>
+        <a href="mailto:saumyamanshrestha@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/saumyamanshrestha/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## ⚡ Fun Fact
 
 I love solving problems and turning ideas into reality through code and design!
-
 
 <!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)-->
 <picture>
