@@ -119,3 +119,6 @@ I love solving problems and turning ideas into reality through code and design!
   <img alt="github-snake" src="https://raw.githubusercontent.com/saumya-shrestha/saumya-shrestha/output/github-snake.svg" />
 </picture>
 
+<a href="https://now-playing-profile-ashy.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile-ashy.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
