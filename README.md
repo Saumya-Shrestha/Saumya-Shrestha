@@ -1,4 +1,4 @@
-# Hi there, I'm Saumya Man Shrestha 👋
+# 👋 Hi there, I'm Saumya Man Shrestha
 
 <!--
 **Saumya-Shrestha/Saumya-Shrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,17 @@ Here are some ideas to get you started:
 
 I'm a passionate **full-stack web developer** and **designer** who loves creating **responsive** and **user-friendly** websites. With a solid understanding of both **web technologies** and **design principles**, I'm always looking to improve my skills in **Front-end development**, **Back-end development** and **UX/UI design**.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zqq5f68mpalni6159i8t96njp&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=zqq5f68mpalni6159i8t96njp&redirect=true)
+<img src="https://media.tenor.com/images/ebd8b0e69d1ad5a2e92d364c86d6199b/tenor.gif" alt="Pepe Music" width="100%">
+
+<h1 align="center">🎧 Now Playing</h1>
+
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=zqq5f68mpalni6159i8t96njp&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zqq5f68mpalni6159i8t96njp&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile">
+  </a>
+</div>  
+
+<br />
 
 ## 🛠️ Technologies & Tools
 
@@ -76,6 +86,8 @@ I'm a passionate **full-stack web developer** and **designer** who loves creatin
   </tr>
 </table>
 
+<br />
+
 ## 🌱 Currently Learning
 
 <table>
@@ -88,6 +100,8 @@ I'm a passionate **full-stack web developer** and **designer** who loves creatin
     <td><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></td>
   </tr>
 </table>
+
+<br />
 
 ## 📫 Let's Connect
 
@@ -109,6 +123,8 @@ I'm a passionate **full-stack web developer** and **designer** who loves creatin
     </td>
   </tr>
 </table>
+
+<br />
 
 ## ⚡ Fun Fact
 
