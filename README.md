@@ -97,6 +97,10 @@ I'm a passionate **full-stack web developer** and **designer** who loves creatin
     <td><strong>Nest.js</strong></td>
     <td><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></td>
   </tr>
+  <tr>
+    <td><strong>TypeScript</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></td>
+  </tr>
 </table>
 
 ## 📫 Let's Connect
