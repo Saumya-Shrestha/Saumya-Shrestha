@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 I'm a passionate **full-stack web developer** and **designer** who loves creating **responsive** and **user-friendly** websites. With a solid understanding of both **web technologies** and **design principles**, I'm always looking to improve my skills in **Front-end development**, **Back-end development** and **UX/UI design**.
 
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=zqq5f68mpalni6159i8t96njp&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zqq5f68mpalni6159i8t96njp&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile">
-  </a>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zqq5f68mpalni6159i8t96njp&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=zqq5f68mpalni6159i8t96njp&redirect=true)
 
 ## 🛠️ Technologies & Tools
 
