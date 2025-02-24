@@ -39,7 +39,6 @@ I'm a passionate **full-stack web developer** and **designer** who loves creatin
     <td><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></td>
     <td><img src="https://skillicons.dev/icons?i=react" alt="React" /></td>
     <td><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></td>
-    <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /></td>
     <td><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" /></td>
   </tr>
   <tr>
@@ -90,12 +89,12 @@ I'm a passionate **full-stack web developer** and **designer** who loves creatin
 
 <table>
   <tr>
-    <td><strong>Next.js</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></td>
+    <td><strong>Tailwind CSS</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /></td>
   </tr>
   <tr>
-    <td><strong>Nest.js</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></td>
+    <td><strong>Next.js</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></td>
   </tr>
   <tr>
     <td><strong>TypeScript</strong></td>
