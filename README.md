@@ -2,11 +2,11 @@
 
 I'm an aspiring **MERN-stack web developer** and **designer** with a strong passion for creating **responsive** and **user-friendly** websites. I'm always eager to learn and improve, working towards creating smooth and engaging digital experiences. Right now you'll find me:  
 
-- 🧱 Stacking MERN components into shaky-but-functional castles
-- 🥊 MongoDB vs Postgres: Making them fight in my *side* projects
+- 🧱 Stacking MERN components into 〰shaky〰but〰functional〰 castles 
+- 🥊 MongoDB vs Postgres: Making them fight 🤕 in my *side* projects
 - 🔁 Living that `code → error → Google → repeat` life
-- 🦄 Chasing the✨mythical✨seamless integration between frontend/backend
-- 📚 "I’ll just watch one tutorial" → 10 hours later, still watching
+- 🦄 Chasing the ✨mythical✨ seamless integration between frontend/backend
+- 📚 "I’ll just watch one tutorial" → ⁉ hours later, still watching
 
 <div align="center"><strong>🤓☝<em> "What if I tried... oh that doesn't work. Let's try again."</em></strong></div>
 
@@ -65,22 +65,20 @@ I'm an aspiring **MERN-stack web developer** and **designer** with a strong pass
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />‎
 </div> 
   
-<div align="center"><h2> 📫 Let's Connect & Collaborate </h2></div>
+<div align="center"><h2> 📫 Connect & Collaborate </h2></div>
 
 <div align=center>
   <a href="mailto:saumyamanshrestha@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />‎
   </a>
   <a href="https://linkedin.com/in/saumyamanshrestha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />‎
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" />‎
   </a>
 </div>
 
 <br />
 
-<div align="center">
-  Let's turn ☕ into code, 🐛 into features, and 💡 into reality!
-</div>
+<div align="center"><strong>Let's turn ☕ into code, 🐛 into features, and 💡 into reality!</strong></div>
 
 ---
 <div align="center">🟩🟩⬛⬛⬛🟩🟩🟩🟩🟩⬛⬛🟩🟩⬛⬛⬛🟩🟩🟩🟩⬛⬛🟩⬛⬛⬛🟩⬛🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩🟪</div>
