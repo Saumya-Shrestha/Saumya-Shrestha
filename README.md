@@ -2,7 +2,7 @@
 
 I'm an aspiring **MERN-stack web developer** and **designer** with a strong passion for creating **responsive** and **user-friendly** websites. I'm always eager to learn and improve, working towards creating smooth and engaging digital experiences. Right now you'll find me:  
 
-- 🧱 Stacking MERN components into 〰shaky〰but〰functional〰 castles 
+- 🧱 Stacking MERN components into〰shaky〰but〰functional〰castles 
 - 🥊 MongoDB vs Postgres: Making them fight 🤕 in my *side* projects
 - 🔁 Living that `code → error → Google → repeat` life
 - 🦄 Chasing the ✨mythical✨ seamless integration between frontend/backend
