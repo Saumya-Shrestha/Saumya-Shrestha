@@ -81,7 +81,7 @@ I'm an aspiring **MERN-stack web developer** and **designer** with a strong pass
 <div align="center"><strong>Let's turn ☕ into code, 🐛 into features, and 💡 into reality!</strong></div>
 
 ---
-<div align="center">🟩🟩⬛⬛⬛🟩🟩🟩🟩🟩⬛⬛🟩🟩⬛⬛⬛🟩🟩🟩🟩⬛⬛🟩⬛⬛⬛🟩⬛🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩🟪</div>
+<div align="center">🟩🟩🟩⬛⬛⬛🟩🟩🟩🟩🟩⬛⬛🟩🟩⬛⬛⬛🟩🟩🟩🟩⬛⬛🟩⬛⬛⬛🟩⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩🟪</div>
 <div align=center>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saumya-shrestha/saumya-shrestha/output/github-snake-dark.svg" />
