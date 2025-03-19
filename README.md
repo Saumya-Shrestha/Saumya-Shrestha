@@ -10,7 +10,7 @@ I'm an aspiring **MERN-stack web developer** and **designer** with a strong pass
 
 <div align="center"><strong>🤓☝<em> "What if I tried... oh that doesn't work. Let's try again."</em></strong></div>
 
----
+<br />
 
 <div align="center">
   <img src="https://media.tenor.com/PxudDH41WKcAAAAj/pepe-music-pepe-listening-to-music.gif" alt="Pepe Music" width="80" height="80" align="left" hspace="150">
