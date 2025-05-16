@@ -1,9 +1,9 @@
 <div align="center"><h1>👲 It's a me, Saumya Man Shrestha!</h1></div>
 
-I'm an aspiring **MERN-stack web developer** and **designer** with a strong passion for creating **responsive** and **user-friendly** websites. I'm always eager to learn and improve, working towards creating smooth and engaging digital experiences. Right now you'll find me:  
+I'm an aspiring **web developer** and **designer** with a strong passion for creating **responsive** and **user-friendly** websites. I'm always eager to learn and improve, working towards creating smooth and engaging digital experiences. Right now you'll find me:  
 
-- 🧱 Stacking MERN components into〰shaky〰but〰functional〰castles 
-- 🥊 MongoDB vs Postgres: Making them fight 🤕 in my *side* projects
+- 🥊 MERN vs Django: Making them fight 🤕
+- 🖌️ Iterating on UI details most people won’t notice (but I will)
 - 🔁 Living that `code → error → Google → repeat` life
 - 🦄 Chasing the ✨mythical✨ seamless integration between frontend/backend
 - 📚 "I’ll just watch one tutorial" → ⁉ hours later, still watching
@@ -43,6 +43,8 @@ I'm an aspiring **MERN-stack web developer** and **designer** with a strong pass
   <!-- <td><strong>Design Tools</strong></td> -->
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" alt="Canva" />
+  <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" />
+  ![Skills](https://skills.syvixor.com/api/icons?i=framer,sketch)
 </div>
 
 <div align=center>
@@ -51,6 +53,7 @@ I'm an aspiring **MERN-stack web developer** and **designer** with a strong pass
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 
   <!-- <td><strong>Other Skills</strong></td> -->
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
@@ -62,8 +65,18 @@ I'm an aspiring **MERN-stack web developer** and **designer** with a strong pass
 <div align=center>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />‎
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />‎
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
 </div> 
+
+<div align="center"><h2> 🔮 Intent on learning </h2></div>
+
+<div align=center>
+  <img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" />‎
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
+</div>
   
 <div align="center"><h2> 📫 Connect & Collaborate </h2></div>
 
