@@ -28,43 +28,45 @@ I'm an aspiring **web developer** and **designer** with a strong passion for cre
   <!-- <td><strong>Front-end Development</strong></td> -->
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" title=""/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
   
   <!-- <td><strong>Back-end Development</strong></td> -->
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
 
+  <!-- <td><strong>Programming Languages</strong></td> -->
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  
   <!-- <td><strong>Databases</strong></td> -->
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
-  
-  <!-- <td><strong>Design Tools</strong></td> -->
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" alt="Canva" />
-  <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" />
-  ![Skills](https://skills.syvixor.com/api/icons?i=framer,sketch)
 </div>
 
 <div align=center>
+  <!-- <td><strong>Design Tools</strong></td> -->
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" alt="Canva" />
+  <!-- <img src="https://skills.syvixor.com/api/icons?i=framer,sketch" /> -->
+  
   <!-- <td><strong>Version Control</strong></td> -->
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 
   <!-- <td><strong>Other Skills</strong></td> -->
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
 </div>
 
 <div align="center"><h2> 🌱 Currently Learning </h2></div>
 
 <div align=center>
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />‎
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
